@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title id="title">Community Apps starter icon</title>
-  <desc id="desc">Replace this placeholder icon before publishing your repository.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#2563eb" />
-    </linearGradient>
-  </defs>
-  <rect width="256" height="256" rx="48" fill="url(#bg)" />
-  <path d="M56 84c0-15.464 12.536-28 28-28h88c15.464 0 28 12.536 28 28v88c0 15.464-12.536 28-28 28H84c-15.464 0-28-12.536-28-28z" fill="none" stroke="#bfdbfe" stroke-width="12" />
-  <path d="M96 128h64" stroke="#e0f2fe" stroke-linecap="round" stroke-width="14" />
-  <path d="M128 96v64" stroke="#e0f2fe" stroke-linecap="round" stroke-width="14" />
-  <text x="128" y="228" fill="#dbeafe" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">REPLACE ME</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#FFF6E9"/>
+  <circle cx="64" cy="60" r="30" fill="#FF7A3D"/>
+  <circle cx="54" cy="55" r="4.5" fill="#4A3628"/>
+  <circle cx="74" cy="55" r="4.5" fill="#4A3628"/>
+  <path d="M52 66 Q64 78 76 66" stroke="#4A3628" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+  <g stroke="#FFC24B" stroke-width="6" stroke-linecap="round">
+    <line x1="64" y1="14" x2="64" y2="24"/>
+    <line x1="26" y1="60" x2="36" y2="60"/>
+    <line x1="92" y1="60" x2="102" y2="60"/>
+    <line x1="37" y1="33" x2="44" y2="40"/>
+    <line x1="91" y1="33" x2="84" y2="40"/>
+  </g>
+  <rect x="30" y="98" width="68" height="12" rx="6" fill="#FFC24B"/>
+  <rect x="40" y="116" width="48" height="8" rx="4" fill="#FF7A3D" opacity="0.6"/>
 </svg>
